@@ -1,0 +1,6 @@
+Make a separate six-second Blender scene using our existing ship. It approaches
+an island and gradually slows. Place the ship left and the island behind/right.
+Block the coast with simple rocky landforms, a sandy cove and foliage. Keep
+scale believable and the camera movement gentle. Shift warm daylight toward
+late afternoon. Preview three frames before rendering the 144-frame animation
+at 800x450, 24 fps. Save all editable sources and the video reference.

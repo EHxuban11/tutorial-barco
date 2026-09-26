@@ -1,0 +1,28 @@
+{
+  "name": "elkano-boat-presentation",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "scripts": {
+    "prepare-media": "node scripts/prepare-media.mjs",
+    "predev": "npm run prepare-media",
+    "dev": "next dev -p 4323",
+    "prebuild": "npm run prepare-media",
+    "build": "next build",
+    "typecheck": "tsc --noEmit",
+    "preview": "python3 -m http.server 4323 --directory out --bind 127.0.0.1"
+  },
+  "dependencies": {
+    "next": "15.5.25",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "tailwindcss": "4.3.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "22.20.3",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "typescript": "5.9.3"
+  }
+}

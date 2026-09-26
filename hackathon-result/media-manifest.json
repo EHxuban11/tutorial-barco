@@ -1,0 +1,148 @@
+{
+  "verified_on": "2026-09-23",
+  "videos": [
+    {
+      "file": "references/01-barco-largo.mp4",
+      "bytes": 1977610,
+      "sha256": "66f40d4f0ea8adb304afb79e0a32f01307a1bb8ed6f3a0bea72274b3070cdb48",
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "frames": 288,
+      "duration_seconds": 12.0,
+      "full_decode": "passed"
+    },
+    {
+      "file": "references/01-video-prueba-5s.mp4",
+      "bytes": 1661116,
+      "sha256": "07abfe0ad825ce9e4e010068e465249306a9c639e82b32966b81c0c96ad6d0c4",
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "frames": 120,
+      "duration_seconds": 5.0,
+      "full_decode": "passed"
+    },
+    {
+      "file": "references/03-estrellas.mp4",
+      "bytes": 70731,
+      "sha256": "b8bb4760f767186b5bd66ebf109f65a7db5524da436ad8f715d4a65e37695b1f",
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "frames": 96,
+      "duration_seconds": 4.0,
+      "full_decode": "passed"
+    },
+    {
+      "file": "references/13-referencia-estilo-3s.mp4",
+      "bytes": 1217491,
+      "sha256": "db19473d1026e4284ebadad2ddcd2d5c1881bbc42a74446fbd3fe4f978549189",
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "frames": 72,
+      "duration_seconds": 3.0,
+      "full_decode": "passed"
+    },
+    {
+      "file": "videos/08-first-breakthrough.mp4",
+      "bytes": 2297758,
+      "sha256": "5acb281c239081097574852df2ed736c1e1b86bffb9443617a4e9bcbc775fe1e",
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "frames": 97,
+      "duration_seconds": 4.04,
+      "full_decode": "passed"
+    },
+    {
+      "file": "videos/13-original-hero.mp4",
+      "bytes": 4467246,
+      "sha256": "6a3d82bdf7e4aa282f59b87df9f8a1fd45110e604fd50dd8d230964ac438931d",
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "frames": 289,
+      "duration_seconds": 12.04,
+      "full_decode": "passed"
+    },
+    {
+      "file": "videos/cierre-hq.mp4",
+      "bytes": 7008396,
+      "sha256": "b54545bedcfd292ea07772f2b7e1f9ae7d5204c0946c4c953de2241e7d276ec0",
+      "width": 1920,
+      "height": 1080,
+      "fps": 24.0,
+      "frames": 193,
+      "duration_seconds": 8.04,
+      "full_decode": "passed"
+    },
+    {
+      "file": "videos/cofre-ref13.mp4",
+      "bytes": 2917731,
+      "sha256": "576e3f91f979b2f0fe4f9fec954174fd9748ce6618fd2137c5e6fd822dcb67cc",
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "frames": 193,
+      "duration_seconds": 8.04,
+      "full_decode": "passed"
+    },
+    {
+      "file": "videos/estrellas-ref13.mp4",
+      "bytes": 789370,
+      "sha256": "29635572a8ef3a56acb0d2677a05633f12e566a0ee671551aeb2a400f2c2f1c3",
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "frames": 97,
+      "duration_seconds": 4.04,
+      "full_decode": "passed"
+    },
+    {
+      "file": "videos/isla-ciudad-ref13.mp4",
+      "bytes": 2153517,
+      "sha256": "514bd651c14a013e46dda5c3a3a79d473467270a7dab7797939b78f01b7d4039",
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "frames": 145,
+      "duration_seconds": 6.04,
+      "full_decode": "passed"
+    },
+    {
+      "file": "videos/isla-ref13.mp4",
+      "bytes": 1929817,
+      "sha256": "551f6924c473bb0037bba56f1a70377ac57c3828b2f2473be8c86cafe20ecbc0",
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "frames": 145,
+      "duration_seconds": 6.04,
+      "full_decode": "passed"
+    },
+    {
+      "file": "videos/puerto-seedance.mp4",
+      "bytes": 1192852,
+      "sha256": "19dabed192f97b5c48e4d45448fe550de063b54a2921125b9bb5370484022cdc",
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "frames": 97,
+      "duration_seconds": 4.04,
+      "full_decode": "passed"
+    },
+    {
+      "file": "videos/zarpar-seedance.mp4",
+      "bytes": 3611126,
+      "sha256": "dca11098fb38ea2150cd6022d3f812c39a13106d12decf7e9dc53ea20b9ff95b",
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "frames": 289,
+      "duration_seconds": 12.04,
+      "full_decode": "passed"
+    }
+  ]
+}

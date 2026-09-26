@@ -1,0 +1,12 @@
+Add a separate Canvas/SVG layer over our generated night video. Use a shared
+16:9 coordinate space and exactly the same cover scale/crop as the video.
+Inspect several frames of this new video, identify stable bright stars and
+place constellation vertices on those coordinates. Do not reuse coordinates
+from another video. If stars move substantially, tell me and propose tracked
+positions or a separately drawn star layer rather than pretending they align.
+
+Use four progress phases: scattered signals; five named constellations;
+convergence into an explicitly illustrative score; then our logo traced as
+star-linked outlines. Keep all text and numbers in code. Drive the phase
+changes from the same progress as the background. Avoid covering the ship.
+Show each phase paused and test alignment after resizing.

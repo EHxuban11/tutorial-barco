@@ -1,0 +1,9 @@
+Using only the ship we just created, make the hero scene in a separate .blend.
+A continuous 12-second shot at 24 fps: the ship enters from the left and ends
+near center-left. Use a near-side view with a slight three-quarter angle so
+the hull and sail logos read clearly. Gentle tracking, no cuts or orbit.
+Keep the right third open for website copy. The ship should feel substantial,
+with restrained rocking and cloth motion. No text or floating financial data
+in the water. Render beginning, middle and end first; inspect framing and sea
+edges. Once those are good, render a fast 800x450 preview and encode an MP4.
+Save the scene, source script and numbered PNGs.

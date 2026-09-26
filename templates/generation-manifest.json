@@ -1,0 +1,26 @@
+{
+  "description": "Fill one attempt entry per generation. Placeholder values are not historical results. Do not store credentials here.",
+  "attempts": [
+    {
+      "scene": "hero",
+      "attempt": 1,
+      "agent_model": null,
+      "blender_version": null,
+      "model_endpoint": "bytedance/seedance-2.0/fast/reference-to-video",
+      "prompt_file": "prompts/03-seedance-hero.txt",
+      "reference_files": [],
+      "settings": {
+        "resolution": "720p",
+        "duration": "12",
+        "aspect_ratio": "16:9",
+        "generate_audio": false
+      },
+      "request_id": null,
+      "returned_seed": null,
+      "output_file": null,
+      "reported_cost_usd": null,
+      "selected": false,
+      "decision_notes": ""
+    }
+  ]
+}

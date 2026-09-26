@@ -1,0 +1,25 @@
+We are recording a from-scratch tutorial. Work only in this new project folder.
+Do not read or reuse any previous Elkano project, ship-building script, .blend,
+render, generated image or video.
+
+Create an editable Blender scene of a stylized 16th-century nao inspired by
+the Victoria associated with Juan Sebastian Elcano. Use Blender's built-in
+Python API through the local Blender executable. Create real 3D geometry;
+do not import a prebuilt ship. Save the Python source and an editable .blend.
+
+The recognizable features are a wooden hull, elevated stern and forecastle,
+three masts, beige square sails and a triangular lateen mizzen. Use my supplied
+logo on the sails and a waving flag. The sail fabric must remain beige around
+the mark, with no white rectangular logo background. Preserve logo proportions.
+
+Start with a simple blue ocean and warm daylight. Prioritize the silhouette,
+readable branding and camera composition. We will use this as a reference for
+video generation, so do not spend hours on tiny surface details.
+
+Use keyframes or shape keys for gentle ship rocking, breathing sails and the
+flag. Every frame must be renderable independently. Avoid simulations that
+require an external cache. Pack image textures into the .blend.
+
+First render a bow view, a side view and a stern view. Inspect those images and
+fix visible geometry, framing and branding problems. Then show me the result
+before rendering a full animation. Keep changes and renders versioned.

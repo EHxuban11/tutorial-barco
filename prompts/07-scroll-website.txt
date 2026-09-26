@@ -1,0 +1,14 @@
+Create a new Next.js presentation using only the videos generated in this
+project. Make a reusable full-screen scene component with a sticky stage.
+Map section scroll progress in [0,1] to video.currentTime. Keep text in HTML,
+with entry/exit intervals controlled by the same progress value. Preserve
+the right-hand copy area in the hero. Use a navy page background.
+
+Implement one hero scene first. Wait for media metadata before seeking, use
+the actual decoded duration, avoid conflicting seek requests, show a poster
+before the video loads, and support reduced motion. Test forward and backward
+scrolling in a real browser before adding scenes. Then add play/pause and
+next/previous controls that stay synchronized with scroll progress.
+
+Keep scene order and media paths in a small configuration file. Do not build
+the financial platform; this tutorial demonstrates the visual presentation.

@@ -1,0 +1,7 @@
+Make a Blender night composition looking up from the deck. Keep the mast,
+rigging and branded sails at the left edge/lower left. Leave the right two
+thirds as a deep blue sky with restrained stars. Use moonlit canvas and a
+locked camera. Render one clean image. Do not draw constellation lines, a
+score, text or a logo in the sky: those will be browser overlays later.
+Package the still as a four-second reference MP4. State clearly that it is
+a held still, not a fully rendered Blender animation.
